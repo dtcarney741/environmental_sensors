@@ -1,9 +1,8 @@
 import sys
-
 import time
 import math
 
-class PmodAQS:
+class Pmod_AQS:
     PmodAQS_HW_ID = 0x20
     PmodAQS_HW_ID_CODE = 0x81
     PmodAQS_BOOTLOADER_APP_START = 0xF4
